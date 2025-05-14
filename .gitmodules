@@ -4,3 +4,6 @@
 [submodule "eureka-server"]
 	path = eureka-server
 	url = git@github.com:saikumar457LL/eureka-server.git
+[submodule "eureka-client-animals-service"]
+	path = eureka-client-animals-service
+	url = git@github.com:saikumar457LL/eureka-client-animals-service.git
