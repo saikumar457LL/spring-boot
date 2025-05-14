@@ -14,3 +14,7 @@
 	path = eureka_client_feign_client
 	url = git@github.com:saikumar457LL/eureka_client_feign_client.git
 	branch = initial
+[submodule "free-api-service"]
+	path = free-api-service
+	url = git@github.com:saikumar457LL/free-api-service.git
+	branch = initial
