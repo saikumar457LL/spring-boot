@@ -1,12 +1,12 @@
 [submodule "multi-databases"]
 	path = multi-databases
 	url = git@github.com:saikumar457LL/multi-databases.git
-  branch = initial
+	branch = initial
 [submodule "eureka-server"]
 	path = eureka-server
 	url = git@github.com:saikumar457LL/eureka-server.git
-  branch = initial
+	branch = initial
 [submodule "eureka-client-animals-service"]
 	path = eureka-client-animals-service
 	url = git@github.com:saikumar457LL/eureka-client-animals-service.git
-  branch = initial
+	branch = initial
