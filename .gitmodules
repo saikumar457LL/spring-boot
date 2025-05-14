@@ -10,3 +10,7 @@
 	path = eureka-client-animals-service
 	url = git@github.com:saikumar457LL/eureka-client-animals-service.git
 	branch = initial
+[submodule "eureka_client_feign_client"]
+	path = eureka_client_feign_client
+	url = git@github.com:saikumar457LL/eureka_client_feign_client.git
+	branch = initial
