@@ -1,3 +1,6 @@
 [submodule "multi-databases"]
 	path = multi-databases
 	url = git@github.com:saikumar457LL/multi-databases.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = git@github.com:saikumar457LL/eureka-server.git
