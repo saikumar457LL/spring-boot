@@ -22,3 +22,7 @@
 	path = restTemplate
 	url = git@github.com:saikumar457LL/restTemplate.git
 	branch = initial
+[submodule "web_client"]
+	path = web_client
+	url = git@github.com:saikumar457LL/web_client.git
+	branch = initial
