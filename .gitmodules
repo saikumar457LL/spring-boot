@@ -18,3 +18,7 @@
 	path = free-api-service
 	url = git@github.com:saikumar457LL/free-api-service.git
 	branch = initial
+[submodule "restTemplate"]
+	path = restTemplate
+	url = git@github.com:saikumar457LL/restTemplate.git
+	branch = initial
